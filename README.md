@@ -4,32 +4,19 @@ Welcome to my data science and analytics portfolio! This repository showcases th
 #  About Me
 I am a passionate Data Analyst and aspiring Data Scientist with a background in Python, SQL, Power BI, and machine learning. I have completed a Data Science Certificate at ExploreAI and gained hands-on experience during my internship at Sand Technologies, where I worked on real-world data-driven solutions. My expertise includes predictive modeling, data visualization, geospatial analysis, and business intelligence.
 
-## 1. Anime Recommender System
-Project Type: Machine Learning | Recommender System
+## 1.Anime Recommendation System Using Machine Learning
+### Project Overview
+This project aimed to develop an automated anime recommendation system using machine learning to enhance user experience by providing personalized anime suggestions. By leveraging content-based filtering and collaborative filtering, the system analyzes user preferences and anime characteristics to deliver relevant recommendations.
 
-### Overview
-Built a personalized Anime Recommender System using Collaborative Filtering and Content-Based Filtering to predict user ratings for unseen anime titles.
+### My Role & Key Contribution
+I was responsible for data cleaning and preparation, ensuring the dataset was structured and optimized for model training. Additionally, I created the presentation slides summarizing key insights, methodology, and findings. My contributions included:
 
-### My Role
-+ Cleaned and preprocessed the dataset for accuracy.
-+ Performed Exploratory Data Analysis (EDA) to extract key insights.
-### Key Objectives
-+ Develop a Collaborative Filtering model based on user similarities.
-+ Implement a Content-Based Filtering model using anime features.
-+ Analyze genre distributions and rating trends to refine recommendations.
-+ Optimize model performance using RMSE.
-
-### Technologies Used:
-Python (Pandas, NumPy, Scikit-learn)
-Data Visualization: Matplotlib, Seaborn, WordCloud
-
-### Techniques: 
-Collaborative & Content-Based Filtering
-### Outcome
-+ Successfully built a functional recommendation system.
-+Improved model accuracy through data cleaning & analysis.
-
-🔗 GitHub Repository: [Insert Link]
+- Data Preprocessing: Handled missing values, removed inconsistencies, and standardized anime metadata.
+- Feature Engineering: Transformed categorical features and numerical ratings for better model performance.
+- Dataset Integrity Checks: Ensured accurate data representation for meaningful recommendations.
+- Presentation Development: Designed and structured slides to effectively communicate project insights.
+### Outcome & Impact
+The recommendation system successfully provided personalized anime suggestions based on user preferences, improving content discoverability and engagement. By implementing machine learning models, the system enhances user satisfaction and streamlines anime selection, making it a valuable tool for anime enthusiasts.
 
 ## 2. Predicting Temperature Variations Based on CO2 Emissions in the Agri-Food Sector
 ### Project Overview
@@ -44,4 +31,24 @@ As one of three team members responsible for model development, I built a Random
 - Data Visualization: Created bar plots to illustrate model comparisons and insights.
 ### Outcome & Impact
 The project confirmed a strong link between CO2 emissions and temperature rise, highlighting the need for sustainable agricultural practices. The predictive models developed can be used by stakeholders to implement targeted strategies to reduce carbon emissions and mitigate climate change.
+
+## 3.Automated News Classification Using Machine Learning
+### Project Overview
+This project aimed to develop an automated news classification system to categorize news articles into predefined categories such as Business, Technology, Sports, Education, and Entertainment using Natural Language Processing (NLP) and machine learning. The goal was to enhance content organization, improve user experience, and increase operational efficiency for news outlets. The final model was deployed as an interactive Streamlit web application for easy usability.
+
+### My Role & Key Contribution
+I was responsible for data cleaning and preparation, ensuring the dataset was structured and optimized for model training. Additionally, I created the presentation slides summarizing key insights, methodology, and findings. My contributions included:
+
+- Data Preprocessing: Removed URLs, punctuation, stopwords, and performed text normalization (stemming & lemmatization).
+- Feature Engineering: Transformed text data into numerical features for model training.
+- Dataset Integrity Checks: Ensured there were no missing values or inconsistencies.
+- Presentation Development: Designed and structured slides to effectively communicate project insights.
+### Outcome & Impact
+The Multinomial Naive Bayes classifier was selected as the best-performing model, achieving high accuracy in classifying news articles. The deployed Streamlit web app allows users to input news articles and receive real-time category predictions, offering a scalable solution for editorial teams to manage content efficiently.
+
+
+
+
+
+
 
