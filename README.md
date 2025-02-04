@@ -46,7 +46,25 @@ I was responsible for data cleaning and preparation, ensuring the dataset was st
 ### Outcome & Impact
 The Multinomial Naive Bayes classifier was selected as the best-performing model, achieving high accuracy in classifying news articles. The deployed Streamlit web app allows users to input news articles and receive real-time category predictions, offering a scalable solution for editorial teams to manage content efficiently.
 
+## 4. Data Visualization for Executive Decision-Making Using Power BI
 
+### Project Overview
+Developed a series of data visualizations to address specific analytical queries posed by the CEO and CMO of an online retail company. Utilized Power BI to transform raw sales data into actionable insights, facilitating informed strategic decisions.
+
+### My Role & Key Contributions:
+- Data Cleaning and Preparation: Imported and processed sales data in Excel, ensuring accuracy by removing empty rows and handling erroneous entries.
+- Visualization Development: Created tailored Power BI visuals to answer executive questions:
+- Monthly Revenue Trends for 2011: Designed a line chart to display monthly revenue, highlighting seasonal patterns.
+- Top 10 Countries by Revenue (Excluding UK): Developed a bar chart showcasing leading countries in revenue and quantity sold, omitting the United Kingdom.
+- Top 10 Customers by Revenue: Constructed a descending bar chart to identify key customers contributing the most to revenue.
+- Global Demand Analysis: Implemented a world map visualization to pinpoint regions with the highest product demand, excluding the UK.
+- Insight Presentation: Compiled findings into a cohesive presentation, articulating data-driven insights and strategic recommendations for executive stakeholders.
+
+### Outcome & Impact: The visualizations provided clear, actionable insights, enabling the CEO and CMO to:
+- Identify peak sales periods and strategize accordingly.
+- Focus marketing efforts on high-revenue countries and customers.
+- Recognize potential markets for expansion based on demand analysis.
+This project enhanced the executives' ability to make informed decisions, leveraging data visualization to drive business growth and efficiency.
 
 
 
