@@ -6,7 +6,7 @@ I am a passionate Data Analyst and aspiring Data Scientist with a background in 
 
 ## Anime Recommender System
 Project Type: Machine Learning | Recommender System
-Project Overview
+Project Overview:
 This project focuses on building a personalized anime recommender system using both Collaborative Filtering and Content-Based Filtering techniques. The goal is to predict how a user will rate an unseen anime based on their historical viewing preferences and the content features of anime titles.
 
 ## My Role
@@ -15,9 +15,13 @@ I collaborated with a team to develop the system, with my primary responsibiliti
 ✔ Performing Exploratory Data Analysis (EDA) to extract meaningful insights and trends.
 
 ## Key Objectives
+
 ✅ Build a Collaborative Filtering model to recommend anime based on user similarities.
+
 ✅ Develop a Content-Based Filtering model that recommends anime based on content features.
+
 ✅ Analyze and visualize genre distributions and rating trends to refine recommendations.
+
 ✅ Optimize model performance using Root Mean Squared Error (RMSE).
 
 ## Data Processing & EDA
