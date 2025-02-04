@@ -34,6 +34,9 @@ As one of three team members responsible for model development, I built a Random
 - Feature Engineering: Processed and selected key variables to improve model accuracy.
 - Performance Evaluation: Conducted a comparative analysis against Gradient Boosting Regressor (R² = 55.59%) and Decision Tree Regression (R² = 20.64%) to ensure the best model was selected.
 - Data Visualization: Created bar plots to illustrate model comparisons and insights.
+  <img src="https://github.com/DimphoLebea28/My-Data-Science-Analytics-Portfolio/blob/Anime-Recommender-System-Project/Screenshot%202025-02-04%20150321.png" width="550" height="300" alt=""/>
+
+</div>
 ### Outcome & Impact
 The project confirmed a strong link between CO2 emissions and temperature rise, highlighting the need for sustainable agricultural practices. The predictive models developed can be used by stakeholders to implement targeted strategies to reduce carbon emissions and mitigate climate change.
 
