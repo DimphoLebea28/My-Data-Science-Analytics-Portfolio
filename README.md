@@ -18,6 +18,12 @@ I was responsible for data cleaning and preparation, ensuring the dataset was st
 - Feature Engineering: Transformed categorical features and numerical ratings for better model performance.
 - Dataset Integrity Checks: Ensured accurate data representation for meaningful recommendations.
 - Presentation Development: Designed and structured slides to effectively communicate project insights.
+  <div id="main image" align="center">
+
+<img src="https://github.com/DimphoLebea28/My-Data-Science-Analytics-Portfolio/blob/Anime-Recommender-System-Project/Screenshot%202025-02-04%20151119.png" width="550" height="300" alt=""/>
+
+</div>
+
 ### Outcome & Impact
 The recommendation system successfully provided personalized anime suggestions based on user preferences, improving content discoverability and engagement. By implementing machine learning models, the system enhances user satisfaction and streamlines anime selection, making it a valuable tool for anime enthusiasts.
 
@@ -27,6 +33,7 @@ This project aimed to analyze CO2 emissions in the agri-food sector over 30 year
 <div id="main image" align="center">
   <img src="https://github.com/marcmarais/2401FTDS_Regression_Project/blob/main/agri_image.png" width="450" height="300" alt=""/>
 </div>
+
 ### My Role & Key Contribution
 As one of three team members responsible for model development, I built a Random Forest Regression model, which outperformed the other models with an R² of 62.02%, making it the most accurate in predicting temperature variations. My contributions included:
 
@@ -37,6 +44,7 @@ As one of three team members responsible for model development, I built a Random
   <img src="https://github.com/DimphoLebea28/My-Data-Science-Analytics-Portfolio/blob/Anime-Recommender-System-Project/Screenshot%202025-02-04%20150321.png" width="550" height="300" alt=""/>
 
 </div>
+
 ### Outcome & Impact
 The project confirmed a strong link between CO2 emissions and temperature rise, highlighting the need for sustainable agricultural practices. The predictive models developed can be used by stakeholders to implement targeted strategies to reduce carbon emissions and mitigate climate change.
 
