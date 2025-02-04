@@ -11,7 +11,9 @@ This project focuses on building a personalized anime recommender system using b
 
 ## My Role
 I collaborated with a team to develop the system, with my primary responsibilities being:
+
 ✔ Cleaning the dataset to ensure data consistency.
+
 ✔ Performing Exploratory Data Analysis (EDA) to extract meaningful insights and trends.
 
 ## Key Objectives
@@ -26,12 +28,16 @@ I collaborated with a team to develop the system, with my primary responsibiliti
 
 ## Data Processing & EDA
 The dataset consisted of over 5.7 million user-anime interactions, including details such as ratings, genres, episode counts, and popularity metrics. I was responsible for:
+
 ✔ Handling missing values and duplicate data to improve model accuracy.
+
 ✔ Merging datasets to create a structured input for training models.
 
 ## Key Insights
 📌 Most Frequent Genre: Hentai
+
 📌 Average Rating: 6.47 (on a scale of 1-10)
+
 📌 Highest Member Count: 1,013,917 users
 
 ## Visualizing Trends
@@ -39,12 +45,16 @@ To better understand user preferences, I used WordCloud to visualize genre distr
 
 ## Technologies Used
 🛠 Languages: Python (Pandas, NumPy, Scikit-learn)
+
 📊 Visualization Tools: Matplotlib, Seaborn, WordCloud
+
 🔍 Techniques: Collaborative & Content-Based Filtering
 
 ## Project Outcomes
 ✅ Successfully cleaned and processed large-scale anime data.
+
 ✅ Developed a functional anime recommendation system that enhances user experience.
+
 ✅ Improved model accuracy by analyzing and adjusting rating distributions.
 
 ## GitHub Repository
