@@ -24,7 +24,9 @@ The recommendation system successfully provided personalized anime suggestions b
 ## 2. Predicting Temperature Variations Based on CO2 Emissions in the Agri-Food Sector
 ### Project Overview
 This project aimed to analyze CO2 emissions in the agri-food sector over 30 years and predict their impact on temperature variations. Using datasets from the Food and Agriculture Organization (FAO) and the Intergovernmental Panel on Climate Change (IPCC), we identified key emission sources and developed predictive models to support sustainable agricultural practices.
-
+<div id="main image" align="center">
+  <img src="https://github.com/marcmarais/2401FTDS_Regression_Project/blob/main/agri_image.png" width="450" height="300" alt=""/>
+</div>
 ### My Role & Key Contribution
 As one of three team members responsible for model development, I built a Random Forest Regression model, which outperformed the other models with an R² of 62.02%, making it the most accurate in predicting temperature variations. My contributions included:
 
@@ -38,6 +40,9 @@ The project confirmed a strong link between CO2 emissions and temperature rise, 
 ## 3.Automated News Classification Using Machine Learning
 ### Project Overview
 This project aimed to develop an automated news classification system to categorize news articles into predefined categories such as Business, Technology, Sports, Education, and Entertainment using Natural Language Processing (NLP) and machine learning. The goal was to enhance content organization, improve user experience, and increase operational efficiency for news outlets. The final model was deployed as an interactive Streamlit web application for easy usability.
+<div id="main image" align="center">
+  <img src="https://github.com/ereshia/2401FTDS_Classification_Project/blob/main/announcement-article-articles-copy-coverage.jpg" width="550" height="300" alt=""/>
+</div>
 
 ### My Role & Key Contribution
 I was responsible for data cleaning and preparation, ensuring the dataset was structured and optimized for model training. Additionally, I created the presentation slides summarizing key insights, methodology, and findings. My contributions included:
