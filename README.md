@@ -1,8 +1,29 @@
-# My-Data-Science-Analytics-Portfolio
+# My Data Science/Analytics Portfolio
 Welcome to my data science and analytics portfolio! This repository showcases the projects I have worked on, demonstrating my skills in data analysis, machine learning, business intelligence, and geospatial analytics. Each project includes datasets, code, visualizations, and insights gained from the analysis.
 
 #  About Me
-I am a passionate Data Analyst and aspiring Data Scientist with a background in Python, SQL, Power BI, and machine learning. I have completed a Data Science Certificate at ExploreAI and gained hands-on experience during my internship at Sand Technologies, where I worked on real-world data-driven solutions. My expertise includes predictive modeling, data visualization, geospatial analysis, and business intelligence.
+I am a Data Analyst and aspiring Data Scientist with a strong foundation in Python, SQL, Power BI, and machine learning. I have completed a Data Science Certificate at ExploreAI, equipping me with hands-on experience in data-driven problem-solving, statistical modeling, and predictive analytics.
+
+During my internship at Sand Technologies, I worked on real-world projects, leveraging data analytics and machine learning to develop insights and optimize decision-making. My expertise spans:
+
+- 📊 Predictive Modeling – Developing machine learning models to forecast trends and patterns.
+- 📍 Geospatial Analysis – Using data-driven insights for location-based decision-making.
+- 📈 Data Visualization – Creating compelling reports and dashboards using Power BI and Tableau.
+- 🔍 Business Intelligence – Analyzing data to support strategic business decisions.
+
+I am passionate about transforming raw data into actionable insights and leveraging technology to drive innovation. This portfolio serves as a testament to my analytical capabilities and problem-solving skills.
+
+#  What You'll Find in This Portfolio
+- 📁 Projects: A collection of projects covering machine learning, NLP, business intelligence, and geospatial analytics.
+- 📊 Visualizations: Charts, graphs, and dashboards to illustrate data-driven insights.
+- 📜 Documentation: Clear explanations of methodologies, data preprocessing steps, and model evaluations.
+
+Explore my work and feel free to connect with me!
+
+- 📧 Email: dimpholebea28@gmail.com
+- 🔗 LinkedIn: www.linkedin.com/in/dimpho-lebea-627053268
+
+
 
 ## 1.Anime Recommendation System Using Machine Learning
 ### Project Overview
