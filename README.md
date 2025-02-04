@@ -106,6 +106,30 @@ Developed a series of data visualizations to address specific analytical queries
 - Recognize potential markets for expansion based on demand analysis.
 This project enhanced the executives' ability to make informed decisions, leveraging data visualization to drive business growth and efficiency.
 
+## 5.Electric Vehicle Charging Station Optimization
+Project Type: Geospatial Data Science | Optimization
+
+### Project Overview
+Developed an optimization model to determine ideal placement for electric vehicle (EV) charging stations using grid-based analysis and a Mixed-Integer Linear Programming (MILP) model. The project aimed to maximize accessibility and efficiency while considering spatial constraints.
+
+### My Role (Project Manager & Data Scientist)
+Led a team of data scientists in executing the project from data preprocessing to model deployment.
+Managed project timelines, team coordination, and stakeholder communication.
+Conducted grid-based spatial analysis to identify high-demand areas.
+### Key Objectives
+- Optimize EV charging station locations using MILP modeling.
+- Implement grid-based analysis to assess high-demand zones.
+- Integrate geospatial data to enhance decision-making.
+- Ensure scalability & efficiency of placement recommendations.
+### Technologies Used:
+- Python (Pandas, NumPy, SciPy, PuLP)
+- Geospatial Analysis: QGIS, Geopandas
+- Optimization Modeling: Mixed-Integer Linear Programming (MILP)
+### Outcome
+- Successfully identified optimal locations for EV charging stations.
+- Improved station placement efficiency using data-driven insights.
+- Delivered a scalable solution for urban mobility planning.
+
 
 
 
