@@ -7,6 +7,9 @@ I am a passionate Data Analyst and aspiring Data Scientist with a background in 
 ## 1.Anime Recommendation System Using Machine Learning
 ### Project Overview
 This project aimed to develop an automated anime recommendation system using machine learning to enhance user experience by providing personalized anime suggestions. By leveraging content-based filtering and collaborative filtering, the system analyzes user preferences and anime characteristics to deliver relevant recommendations.
+<div id="main image" align="center">
+  <img src="https://github.com/MoteneJan/JB1_2401FTDS/blob/main/pic.png" width="550" height="300" alt=""/>
+</div>
 
 ### My Role & Key Contribution
 I was responsible for data cleaning and preparation, ensuring the dataset was structured and optimized for model training. Additionally, I created the presentation slides summarizing key insights, methodology, and findings. My contributions included:
