@@ -41,7 +41,7 @@ I was responsible for data cleaning and preparation, ensuring the dataset was st
 - Presentation Development: Designed and structured slides to effectively communicate project insights.
   <div id="main image" align="center">
 
-<img src="https://github.com/DimphoLebea28/My-Data-Science-Analytics-Portfolio/blob/Anime-Recommender-System-Project/Screenshot%202025-02-04%20151119.png" width="550" height="300" alt=""/>
+<img src="https://github.com/DimphoLebea28/My-Data-Science-Analytics-Portfolio/blob/main/Screenshot%202025-02-04%20151119.png" width="550" height="300" alt=""/>
 
 </div>
 
