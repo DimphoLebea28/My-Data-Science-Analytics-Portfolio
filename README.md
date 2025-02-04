@@ -48,7 +48,9 @@ I was responsible for data cleaning and preparation, ensuring the dataset was st
 ### Outcome & Impact
 The recommendation system successfully provided personalized anime suggestions based on user preferences, improving content discoverability and engagement. By implementing machine learning models, the system enhances user satisfaction and streamlines anime selection, making it a valuable tool for anime enthusiasts.
 
+
 ## 2. Predicting Temperature Variations Based on CO2 Emissions in the Agri-Food Sector
+
 ### Project Overview
 This project aimed to analyze CO2 emissions in the agri-food sector over 30 years and predict their impact on temperature variations. Using datasets from the Food and Agriculture Organization (FAO) and the Intergovernmental Panel on Climate Change (IPCC), we identified key emission sources and developed predictive models to support sustainable agricultural practices.
 <div id="main image" align="center">
@@ -69,7 +71,9 @@ As one of three team members responsible for model development, I built a Random
 ### Outcome & Impact
 The project confirmed a strong link between CO2 emissions and temperature rise, highlighting the need for sustainable agricultural practices. The predictive models developed can be used by stakeholders to implement targeted strategies to reduce carbon emissions and mitigate climate change.
 
+
 ## 3.Automated News Classification Using Machine Learning
+
 ### Project Overview
 This project aimed to develop an automated news classification system to categorize news articles into predefined categories such as Business, Technology, Sports, Education, and Entertainment using Natural Language Processing (NLP) and machine learning. The goal was to enhance content organization, improve user experience, and increase operational efficiency for news outlets. The final model was deployed as an interactive Streamlit web application for easy usability.
 <div id="main image" align="center">
@@ -85,6 +89,7 @@ I was responsible for data cleaning and preparation, ensuring the dataset was st
 - Presentation Development: Designed and structured slides to effectively communicate project insights.
 ### Outcome & Impact
 The Multinomial Naive Bayes classifier was selected as the best-performing model, achieving high accuracy in classifying news articles. The deployed Streamlit web app allows users to input news articles and receive real-time category predictions, offering a scalable solution for editorial teams to manage content efficiently.
+
 
 ## 4. Data Visualization for Executive Decision-Making Using Power BI
 
@@ -105,6 +110,7 @@ Developed a series of data visualizations to address specific analytical queries
 - Focus marketing efforts on high-revenue countries and customers.
 - Recognize potential markets for expansion based on demand analysis.
 This project enhanced the executives' ability to make informed decisions, leveraging data visualization to drive business growth and efficiency.
+
 
 ## 5.Electric Vehicle Charging Station Optimization
 Project Type: Geospatial Data Science | Optimization
